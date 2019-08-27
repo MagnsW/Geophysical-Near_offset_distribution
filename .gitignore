@@ -1,0 +1,11 @@
+*.log
+*.ppt
+*.pptx
+*.xlsx
+*.png
+*.tar
+*.zip
+*.gz
+.DS_store
+/rawlogs
+/input_X_maz
